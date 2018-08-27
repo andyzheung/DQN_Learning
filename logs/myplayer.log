@@ -1,0 +1,2858 @@
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:loop 0,i 1
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-30000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-30000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-30000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-30000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-30000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-30000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-30000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-30000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-30000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-30000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-10000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-10000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-10000
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:loop 0,i 1
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn-70000
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:left or right wall
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:left or right wall
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:left or right wall
+INFO:root:left or right wall
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:left or right wall
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:left or right wall
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:left or right wall
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:left or right wall
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:left or right wall
+INFO:root:left or right wall
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:left or right wall
+INFO:root:out of map
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:stop down wall
+INFO:root:action 8:reward -0.950000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:stop down wall
+INFO:root:action 8:reward -0.900000
+INFO:root:has already go
+INFO:root:stop down wall
+INFO:root:action 8:reward -0.900000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:stop down wall
+INFO:root:action 8:reward -0.850000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -0.950000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -0.950000
+INFO:root:action 8:reward -0.950000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:action 8:reward -0.950000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:action 8:reward -0.950000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.800000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:action 8:reward -0.800000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:up or down out of map
+INFO:root:left or right wall
+INFO:root:action 8:reward -0.600000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:on the enemy left
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:on the enemy down
+INFO:root:has already go
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:on the enemy right
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:on the enemy down
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:on the enemy right
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:on the enemy up
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:on the enemy left
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:on the enemy left
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:on the enemy down
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:on the enemy right
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:on the enemy down
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:on the enemy down
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:on the enemy down
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:on the enemy down
+INFO:root:action 8:reward -1.000000
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:on the enemy down
+INFO:root:has already go
+INFO:root:on the enemy down
+INFO:root:out of map
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 1
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 2
+INFO:root:out of map
+INFO:root:loop 0,i 3
+INFO:root:loop 0,i 4
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 5
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:loop 0,i 1
+INFO:root:out of map
+INFO:root:loop 0,i 2
+INFO:root:on the enemy left
+INFO:root:out of map
+INFO:root:loop 0,i 3
+INFO:root:out of map
+INFO:root:loop 0,i 4
+INFO:root:loop 0,i 5
+INFO:root:loop 0,i 6
+INFO:root:has already go
+INFO:root:loop 0,i 7
+INFO:root:loop 0,i 8
+INFO:root:loop 0,i 9
+INFO:root:loop 0,i 10
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 11
+INFO:root:has already go
+INFO:root:loop 0,i 12
+INFO:root:out of map
+INFO:root:loop 0,i 13
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 14
+INFO:root:loop 0,i 15
+INFO:root:out of map
+INFO:root:loop 0,i 16
+INFO:root:out of map
+INFO:root:loop 0,i 17
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 18
+INFO:root:out of map
+INFO:root:loop 0,i 19
+INFO:root:has already go
+INFO:root:loop 0,i 20
+INFO:root:has already go
+INFO:root:loop 0,i 21
+INFO:root:out of map
+INFO:root:loop 0,i 22
+INFO:root:loop 0,i 23
+INFO:root:out of map
+INFO:root:loop 0,i 24
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 25
+INFO:root:has already go
+INFO:root:loop 0,i 26
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 27
+INFO:root:out of map
+INFO:root:loop 0,i 28
+INFO:root:out of map
+INFO:root:loop 0,i 29
+INFO:root:has already go
+INFO:root:loop 0,i 30
+INFO:root:out of map
+INFO:root:loop 0,i 31
+INFO:root:out of map
+INFO:root:loop 0,i 32
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 33
+INFO:root:out of map
+INFO:root:loop 0,i 34
+INFO:root:out of map
+INFO:root:loop 0,i 35
+INFO:root:out of map
+INFO:root:loop 0,i 36
+INFO:root:loop 0,i 37
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 38
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 39
+INFO:root:loop 0,i 40
+INFO:root:loop 0,i 41
+INFO:root:loop 0,i 42
+INFO:root:out of map
+INFO:root:loop 0,i 43
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 44
+INFO:root:loop 0,i 45
+INFO:root:out of map
+INFO:root:loop 0,i 46
+INFO:root:loop 0,i 47
+INFO:root:loop 0,i 48
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:loop 0,i 1
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 2
+INFO:root:on the enemy right
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 3
+INFO:root:out of map
+INFO:root:loop 0,i 4
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 5
+INFO:root:loop 0,i 6
+INFO:root:on the enemy right
+INFO:root:has already go
+INFO:root:loop 0,i 7
+INFO:root:has already go
+INFO:root:loop 0,i 8
+INFO:root:has already go
+INFO:root:loop 0,i 9
+INFO:root:has already go
+INFO:root:loop 0,i 10
+INFO:root:out of map
+INFO:root:loop 0,i 11
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 12
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 13
+INFO:root:out of map
+INFO:root:loop 0,i 14
+INFO:root:has already go
+INFO:root:loop 0,i 15
+INFO:root:loop 0,i 16
+INFO:root:out of map
+INFO:root:loop 0,i 17
+INFO:root:out of map
+INFO:root:loop 0,i 18
+INFO:root:loop 0,i 19
+INFO:root:loop 0,i 20
+INFO:root:loop 0,i 21
+INFO:root:has already go
+INFO:root:loop 0,i 22
+INFO:root:loop 0,i 23
+INFO:root:loop 0,i 24
+INFO:root:loop 0,i 25
+INFO:root:loop 0,i 26
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 27
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 28
+INFO:root:loop 0,i 29
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 30
+INFO:root:has already go
+INFO:root:loop 0,i 31
+INFO:root:has already go
+INFO:root:loop 0,i 32
+INFO:root:out of map
+INFO:root:loop 0,i 33
+INFO:root:has already go
+INFO:root:loop 0,i 34
+INFO:root:out of map
+INFO:root:loop 0,i 35
+INFO:root:out of map
+INFO:root:loop 0,i 36
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 37
+INFO:root:loop 0,i 38
+INFO:root:has already go
+INFO:root:loop 0,i 39
+INFO:root:has already go
+INFO:root:loop 0,i 40
+INFO:root:has already go
+INFO:root:loop 0,i 41
+INFO:root:has already go
+INFO:root:loop 0,i 42
+INFO:root:out of map
+INFO:root:loop 0,i 43
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 44
+INFO:root:loop 0,i 45
+INFO:root:loop 0,i 46
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:loop 0,i 1
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 2
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 3
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 4
+INFO:root:has already go
+INFO:root:loop 0,i 5
+INFO:root:out of map
+INFO:root:loop 0,i 6
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 7
+INFO:root:loop 0,i 8
+INFO:root:loop 0,i 9
+INFO:root:out of map
+INFO:root:loop 0,i 10
+INFO:root:loop 0,i 11
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 12
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 13
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 14
+INFO:root:loop 0,i 15
+INFO:root:has already go
+INFO:root:loop 0,i 16
+INFO:root:has already go
+INFO:root:loop 0,i 17
+INFO:root:out of map
+INFO:root:loop 0,i 18
+INFO:root:out of map
+INFO:root:loop 0,i 19
+INFO:root:has already go
+INFO:root:loop 0,i 20
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 21
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 22
+INFO:root:loop 0,i 23
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 24
+INFO:root:loop 0,i 25
+INFO:root:loop 0,i 26
+INFO:root:loop 0,i 27
+INFO:root:out of map
+INFO:root:loop 0,i 28
+INFO:root:out of map
+INFO:root:loop 0,i 29
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 30
+INFO:root:loop 0,i 31
+INFO:root:out of map
+INFO:root:loop 0,i 32
+INFO:root:out of map
+INFO:root:loop 0,i 33
+INFO:root:out of map
+INFO:root:loop 0,i 34
+INFO:root:loop 0,i 35
+INFO:root:loop 0,i 36
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 1
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 2
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 3
+INFO:root:has already go
+INFO:root:loop 0,i 4
+INFO:root:on the enemy left
+INFO:root:out of map
+INFO:root:loop 0,i 5
+INFO:root:loop 0,i 6
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 7
+INFO:root:has already go
+INFO:root:loop 0,i 8
+INFO:root:loop 0,i 9
+INFO:root:has already go
+INFO:root:loop 0,i 10
+INFO:root:out of map
+INFO:root:loop 0,i 11
+INFO:root:has already go
+INFO:root:loop 0,i 12
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 13
+INFO:root:out of map
+INFO:root:loop 0,i 14
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 15
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 16
+INFO:root:loop 0,i 17
+INFO:root:loop 0,i 18
+INFO:root:out of map
+INFO:root:loop 0,i 19
+INFO:root:loop 0,i 20
+INFO:root:loop 0,i 21
+INFO:root:loop 0,i 22
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:out of map
+INFO:root:loop 0,i 1
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 2
+INFO:root:out of map
+INFO:root:loop 0,i 3
+INFO:root:loop 0,i 4
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 5
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 6
+INFO:root:out of map
+INFO:root:loop 0,i 7
+INFO:root:loop 0,i 8
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 9
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 10
+INFO:root:out of map
+INFO:root:loop 0,i 11
+INFO:root:loop 0,i 12
+INFO:root:has already go
+INFO:root:loop 0,i 13
+INFO:root:loop 0,i 14
+INFO:root:out of map
+INFO:root:loop 0,i 15
+INFO:root:has already go
+INFO:root:loop 0,i 16
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 17
+INFO:root:out of map
+INFO:root:loop 0,i 18
+INFO:root:out of map
+INFO:root:loop 0,i 19
+INFO:root:has already go
+INFO:root:loop 0,i 20
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 21
+INFO:root:has already go
+INFO:root:loop 0,i 22
+INFO:root:out of map
+INFO:root:loop 0,i 23
+INFO:root:loop 0,i 24
+INFO:root:out of map
+INFO:root:loop 0,i 25
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 26
+INFO:root:has already go
+INFO:root:loop 0,i 27
+INFO:root:loop 0,i 28
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 29
+INFO:root:loop 0,i 30
+INFO:root:has already go
+INFO:root:loop 0,i 31
+INFO:root:loop 0,i 32
+INFO:root:out of map
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:loop 0,i 1
+INFO:root:out of map
+INFO:root:loop 0,i 2
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 3
+INFO:root:has already go
+INFO:root:loop 0,i 4
+INFO:root:on the enemy down
+INFO:root:has already go
+INFO:root:loop 0,i 5
+INFO:root:loop 0,i 6
+INFO:root:has already go
+INFO:root:loop 0,i 7
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 8
+INFO:root:out of map
+INFO:root:loop 0,i 9
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 10
+INFO:root:has already go
+INFO:root:loop 0,i 11
+INFO:root:loop 0,i 12
+INFO:root:loop 0,i 13
+INFO:root:out of map
+INFO:root:loop 0,i 14
+INFO:root:has already go
+INFO:root:loop 0,i 15
+INFO:root:loop 0,i 16
+INFO:root:out of map
+INFO:root:loop 0,i 17
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 18
+INFO:root:loop 0,i 19
+INFO:root:out of map
+INFO:root:loop 0,i 20
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 21
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 22
+INFO:root:loop 0,i 23
+INFO:root:out of map
+INFO:root:loop 0,i 24
+INFO:root:loop 0,i 25
+INFO:root:out of map
+INFO:root:loop 0,i 26
+INFO:root:out of map
+INFO:root:loop 0,i 27
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 28
+INFO:root:has already go
+INFO:root:loop 0,i 29
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 30
+INFO:root:loop 0,i 31
+INFO:root:action 8:reward -1.200000
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:has already go
+INFO:root:loop 0,i 1
+INFO:root:out of map
+INFO:root:loop 0,i 2
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 3
+INFO:root:loop 0,i 4
+INFO:root:has already go
+INFO:root:loop 0,i 5
+INFO:root:out of map
+INFO:root:loop 0,i 6
+INFO:root:out of map
+INFO:root:loop 0,i 7
+INFO:root:out of map
+INFO:root:loop 0,i 8
+INFO:root:out of map
+INFO:root:loop 0,i 9
+INFO:root:out of map
+INFO:root:loop 0,i 10
+INFO:root:loop 0,i 11
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 12
+INFO:root:loop 0,i 13
+INFO:root:out of map
+INFO:root:loop 0,i 14
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 15
+INFO:root:out of map
+INFO:root:loop 0,i 16
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 17
+INFO:root:loop 0,i 18
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 19
+INFO:root:out of map
+INFO:root:loop 0,i 20
+INFO:root:loop 0,i 21
+INFO:root:loop 0,i 22
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 23
+INFO:root:has already go
+INFO:root:loop 0,i 24
+INFO:root:has already go
+INFO:root:loop 0,i 25
+INFO:root:out of map
+INFO:root:loop 0,i 26
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 27
+INFO:root:loop 0,i 28
+INFO:root:out of map
+INFO:root:loop 0,i 29
+INFO:root:loop 0,i 30
+INFO:root:out of map
+INFO:root:loop 0,i 31
+INFO:root:out of map
+INFO:root:loop 0,i 32
+INFO:root:out of map
+INFO:root:loop 0,i 33
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 34
+INFO:root:loop 0,i 35
+INFO:root:has already go
+INFO:root:loop 0,i 36
+INFO:root:on the enemy down
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 37
+INFO:root:loop 0,i 38
+INFO:root:on the enemy up
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:root:loop 0,i 0
+INFO:root:loop 0,i 1
+INFO:root:loop 0,i 2
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 3
+INFO:root:loop 0,i 4
+INFO:root:loop 0,i 5
+INFO:root:loop 0,i 6
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 7
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 8
+INFO:root:loop 0,i 9
+INFO:root:loop 0,i 10
+INFO:root:has already go
+INFO:root:loop 0,i 11
+INFO:root:has already go
+INFO:root:loop 0,i 12
+INFO:root:has already go
+INFO:root:loop 0,i 13
+INFO:root:loop 0,i 14
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 15
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 16
+INFO:root:loop 0,i 17
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 18
+INFO:root:out of map
+INFO:root:loop 0,i 19
+INFO:root:out of map
+INFO:root:loop 0,i 20
+INFO:root:has already go
+INFO:root:loop 0,i 21
+INFO:root:loop 0,i 22
+INFO:root:out of map
+INFO:root:loop 0,i 23
+INFO:root:on the enemy left
+INFO:root:has already go
+INFO:root:loop 0,i 24
+INFO:root:loop 0,i 25
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 26
+INFO:root:out of map
+INFO:root:loop 0,i 27
+INFO:root:loop 0,i 28
+INFO:root:has already go
+INFO:root:loop 0,i 29
+INFO:root:out of map
+INFO:root:loop 0,i 30
+INFO:root:out of map
+INFO:root:loop 0,i 31
+INFO:root:has already go
+INFO:root:loop 0,i 32
+INFO:root:has already go
+INFO:root:loop 0,i 33
+INFO:root:loop 0,i 34
+INFO:root:has already go
+INFO:root:loop 0,i 35
+INFO:root:out of map
+INFO:root:loop 0,i 36
+INFO:root:out of map
+INFO:root:loop 0,i 37
+INFO:root:out of map
+INFO:root:loop 0,i 38
+INFO:root:has already go
+INFO:root:loop 0,i 39
+INFO:root:loop 0,i 40
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 41
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 42
+INFO:root:on the enemy up
+INFO:root:loop 0,i 43
+INFO:root:out of map
+INFO:root:loop 0,i 44
+INFO:root:loop 0,i 45
+INFO:root:has already go
+INFO:root:loop 0,i 46
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 47
+INFO:root:loop 0,i 48
+INFO:root:loop 0,i 49
+INFO:root:loop 0,i 50
+INFO:root:loop 0,i 51
+INFO:root:loop 0,i 52
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 53
+INFO:root:out of map
+INFO:root:loop 0,i 54
+INFO:root:out of map
+INFO:root:loop 0,i 55
+INFO:root:has already go
+INFO:root:loop 0,i 56
+INFO:root:out of map
+INFO:root:loop 0,i 57
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 58
+INFO:root:on the enemy left
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 59
+INFO:root:out of map
+INFO:root:loop 0,i 60
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 61
+INFO:root:has already go
+INFO:root:loop 0,i 62
+INFO:root:has already go
+INFO:root:loop 0,i 63
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 64
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 65
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 66
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 67
+INFO:root:loop 0,i 68
+INFO:root:out of map
+INFO:root:loop 0,i 69
+INFO:root:loop 0,i 70
+INFO:root:out of map
+INFO:root:loop 0,i 71
+INFO:root:has already go
+INFO:root:loop 0,i 72
+INFO:root:has already go
+INFO:root:loop 0,i 73
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 74
+INFO:root:has already go
+INFO:root:loop 0,i 75
+INFO:root:out of map
+INFO:root:loop 0,i 76
+INFO:root:loop 0,i 77
+INFO:root:has already go
+INFO:root:loop 0,i 78
+INFO:root:loop 0,i 79
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 80
+INFO:root:has already go
+INFO:root:loop 0,i 81
+INFO:root:loop 0,i 82
+INFO:root:has already go
+INFO:root:loop 0,i 83
+INFO:root:on the enemy left
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 84
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 85
+INFO:root:loop 0,i 86
+INFO:root:loop 0,i 87
+INFO:root:loop 0,i 88
+INFO:root:out of map
+INFO:root:loop 0,i 89
+INFO:root:has already go
+INFO:root:loop 0,i 90
+INFO:root:action 8:reward -1.200000
+INFO:root:loop 0,i 91
+INFO:root:loop 0,i 92
+INFO:root:has already go
+INFO:root:loop 0,i 93
+INFO:root:loop 0,i 94
+INFO:root:loop 0,i 95
+INFO:root:loop 0,i 96
+INFO:root:loop 0,i 97
+INFO:root:out of map
+INFO:root:loop 0,i 98
+INFO:root:has already go
+INFO:root:loop 0,i 99
+INFO:root:loop 0,i 100
+INFO:root:out of map
+INFO:root:loop 0,i 101
+INFO:root:action 8:reward -1.000000
+INFO:root:loop 0,i 102
+INFO:root:loop 0,i 103
+INFO:root:out of map
+INFO:root:loop 0,i 104
+INFO:root:out of map
+INFO:root:loop 0,i 105
+INFO:root:out of map
+INFO:root:loop 0,i 106
+INFO:root:out of map
+INFO:root:loop 0,i 107
+INFO:root:out of map
+INFO:root:loop 0,i 108
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn
+INFO:root:loop 14280,i 0
+INFO:root:on the enemy down
+INFO:root:has already go
+INFO:root:on the enemy down
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:on the enemy down
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:on the enemy down
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn
+INFO:root:loop 14280,i 0
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:on the enemy down
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:on the enemy down
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn
+INFO:root:loop 14280,i 0
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:Started
+WARNING:tensorflow:From C:\andy\devtool\Anaconda4.2\lib\site-packages\tensorflow\python\util\tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+INFO:tensorflow:Restoring parameters from saved_networks\network-dqn
+INFO:root:loop 14280,i 0
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:on the enemy right
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:out of map
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:has already go
+INFO:root:action 8:reward -1.000000
+INFO:root:has already go
+INFO:root:has already go
